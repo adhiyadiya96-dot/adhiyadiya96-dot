@@ -1,56 +1,101 @@
-<h1 align="center">Hi there, I'm Diya Adhiya 👋</h1>
+# 👋 Hi, I'm Diya Adhiya
 
-<h3 align="center">BCA Student | Exploring the World of Technology 💻</h3>
+### Aspiring Software Developer | BCA Student | Python Enthusiast
 
-<p align="center">
-  Learning, building and growing one project at a time.
+💻 I’m a Bachelor of Computer Applications (BCA) student at **Darshan University**, interested in software development, programming and problem-solving.
+
+🐍 Currently focusing on **Python** and strengthening my programming fundamentals while exploring different areas of software development.
+
+🌱 I believe in learning by building, improving through practice and growing one step at a time.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/diyaadhiya96-dot">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🌷 About Me
+## 🛠️ Technologies & Tools
 
-- 🎓 BCA Student, 2027
-- 💻 Interested in Software Development
-- 🌱 Currently improving my programming and problem-solving skills
-- 🚀 Exploring new technologies and building projects
-- ✨ Believe in learning by doing
-
-### 🛠️ Technologies & Tools
+### 💻 Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
 </p>
 
-### 🌱 Currently Focusing On
+### 🎨 Frontend Development
 
-- Strengthening programming fundamentals
-- Practicing C programming
-- Learning Java and Flutter
-- Improving problem-solving skills
-- Building practical projects
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
+</p>
 
-### ✨ My Journey
+### ⚙️ Backend & Database
 
-- Exploring different areas of technology
-- Developing practical coding skills
-- Growing my knowledge of Python
-- Learning something new every day
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,sqlite&theme=dark" />
+</p>
+
+### 📱 Frameworks & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 Interactive Quiz Application
+**Tech Stack:** HTML, CSS, JavaScript
+
+- Developed an interactive quiz application using Vanilla JavaScript.
+- Practiced JavaScript fundamentals and client-side programming.
+- Worked with dynamic interactions and user interface elements.
+
+---
+
+## 🎯 Currently Focusing On
+
+- 🐍 Improving Python programming skills.
+- 💡 Strengthening problem-solving and logical thinking.
+- 🌱 Learning new technologies and exploring development frameworks.
+- 🚀 Building practical projects to gain hands-on experience.
+- 🤝 Exploring opportunities to collaborate and grow as a developer.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diyaadhiya96-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaadhiya96-dot&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diyaadhiya96-dot&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💭 My Developer Mindset
+
+> "Every expert was once a beginner. Keep learning, keep building, and keep growing."
 
 ---
 
 <p align="center">
-  <i>"Every expert was once a beginner."</i> ✨
+  💙 Thanks for visiting my profile!
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 💙
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=120&section=footer" />
 </p>
