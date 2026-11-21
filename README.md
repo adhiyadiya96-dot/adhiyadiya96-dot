@@ -57,11 +57,7 @@ I believe in learning consistently, solving problems and growing with every step
 
 ---
 
-### 📊 GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/2563eb/diyaadhiya96-dot)
-
----
 
 <p align="center">
   <i>"Every expert was once a beginner. Keep learning, keep building, and keep growing."</i>
@@ -71,6 +67,3 @@ I believe in learning consistently, solving problems and growing with every step
   💙 Thanks for visiting my profile!
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:1D4ED8&height=100&section=footer" />
-</p>
