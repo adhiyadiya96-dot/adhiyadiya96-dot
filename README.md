@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Diya Adhiya 👋</h1>
 
-<h3 align="center">BCA Student | Aspiring Software Developer 💻</h3>
+<h3 align="center">BCA Student | Exploring the World of Technology 💻</h3>
 
 <p align="center">
   Learning, building and growing one project at a time.
@@ -19,6 +19,7 @@
 ### 🛠️ Technologies & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -37,12 +38,12 @@
 - Improving problem-solving skills
 - Building practical projects
 
-### 📌 Goals
+### ✨ My Journey
 
-- Build meaningful projects
-- Become a better problem solver
-- Explore new technologies
-- Grow as a software developer
+- Exploring different areas of technology
+- Developing practical coding skills
+- Growing my knowledge of Python
+- Learning something new every day
 
 ---
 
